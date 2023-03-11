@@ -4,18 +4,20 @@
     "url": "https://www.kendalldoescoding.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 246,
-    "timeWeek": 297,
-    "timeMonth": 300,
-    "timeYear": 300,
-    "dailyMinutesDown": {}
+    "time": 627,
+    "timeDay": 2889,
+    "timeWeek": 951,
+    "timeMonth": 627,
+    "timeYear": 627,
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "A Very Mogul Christmas!",
