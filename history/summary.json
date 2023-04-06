@@ -58,19 +58,19 @@
     "url": "https://kendalldoescoding.tech/typinggame2",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 284,
-    "timeWeek": 215,
-    "timeMonth": 206,
-    "timeYear": 211,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 213,
+    "timeDay": 293,
+    "timeWeek": 226,
+    "timeMonth": 209,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-04-06": 0
+      "2023-04-06": 7
     }
   },
   {
