@@ -22,19 +22,19 @@
     "url": "https://kendalldoescoding.tech/mogulchristmas",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 121,
-    "timeWeek": 202,
-    "timeMonth": 278,
-    "timeYear": 273,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 276,
+    "timeDay": 466,
+    "timeWeek": 278,
+    "timeMonth": 296,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2023-07-25": 8
+      "2023-07-25": 14
     }
   },
   {
@@ -44,18 +44,16 @@
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
     "timeDay": 3219,
     "timeWeek": 927,
     "timeMonth": 368,
     "timeYear": 254,
-    "dailyMinutesDown": {
-      "2023-07-25": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Typing Game 2",
@@ -64,9 +62,9 @@
     "slug": "typing-game-2",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 244,
     "timeDay": 2125,
@@ -74,7 +72,6 @@
     "timeMonth": 337,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-07-25": 7,
       "2023-06-14": 22
     }
   },
@@ -85,17 +82,15 @@
     "slug": "tic-tac-toe",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 156,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2023-07-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
