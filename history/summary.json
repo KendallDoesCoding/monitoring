@@ -4,9 +4,9 @@
     "url": "https://www.kendalldoescoding.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 286,
     "timeYear": 365,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-07-25": 23
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://kendalldoescoding.tech/mogulchristmas",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 205,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-09-13": 32,
       "2023-09-12": 5,
       "2023-07-25": 22
@@ -46,9 +48,9 @@
     "url": "https://kendalldoescoding.tech/letitbe",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -58,6 +60,7 @@
     "timeMonth": 126,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-07-25": 22
     }
   },
@@ -66,9 +69,9 @@
     "url": "https://kendalldoescoding.tech/typinggame2",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -78,6 +81,7 @@
     "timeMonth": 162,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-07-25": 22,
       "2023-06-14": 22
     }
@@ -87,9 +91,9 @@
     "url": "https://kendalldoescoding.tech/tictactoe",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +102,8 @@
     "timeWeek": 117,
     "timeMonth": 176,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   }
 ]
