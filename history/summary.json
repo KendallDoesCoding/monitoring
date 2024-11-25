@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "60.40%",
-    "uptimeDay": "98.76%",
+    "uptime": "60.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "36.83%",
+    "uptimeYear": "37.10%",
     "time": 494,
-    "timeDay": 3000,
-    "timeWeek": 1371,
-    "timeMonth": 776,
-    "timeYear": 629,
+    "timeDay": 331,
+    "timeWeek": 1392,
+    "timeMonth": 782,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2024-11-23": 18,
       "2024-11-02": 46,
@@ -251,8 +251,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -261,16 +260,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "60.40%",
-    "uptimeDay": "98.40%",
+    "uptime": "60.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "36.85%",
-    "time": 470,
-    "timeDay": 4346,
-    "timeWeek": 1643,
-    "timeMonth": 669,
-    "timeYear": 703,
+    "uptimeYear": "37.12%",
+    "time": 482,
+    "timeDay": 4319,
+    "timeWeek": 2108,
+    "timeMonth": 793,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-11-23": 23,
       "2024-09-08": 32,
@@ -504,8 +503,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -514,16 +512,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "60.42%",
+    "uptime": "60.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.86%",
-    "time": 199,
-    "timeDay": 205,
-    "timeWeek": 198,
-    "timeMonth": 171,
-    "timeYear": 207,
+    "uptimeYear": "37.13%",
+    "time": 200,
+    "timeDay": 241,
+    "timeWeek": 221,
+    "timeMonth": 175,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2024-08-21": 20,
       "2024-07-19": 39,
@@ -754,8 +752,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -764,16 +761,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "60.41%",
+    "uptime": "60.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.86%",
+    "uptimeYear": "37.13%",
     "time": 250,
-    "timeDay": 216,
-    "timeWeek": 182,
-    "timeMonth": 164,
-    "timeYear": 282,
+    "timeDay": 196,
+    "timeWeek": 199,
+    "timeMonth": 168,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2024-08-21": 19,
       "2024-07-19": 38,
@@ -1004,8 +1001,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   },
   {
@@ -1014,15 +1010,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "60.42%",
+    "uptime": "60.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.86%",
+    "uptimeYear": "37.13%",
     "time": 180,
-    "timeDay": 245,
-    "timeWeek": 202,
-    "timeMonth": 170,
+    "timeDay": 210,
+    "timeWeek": 219,
+    "timeMonth": 173,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2024-08-21": 19,
@@ -1254,8 +1250,7 @@
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
-      "2023-11-27": 1440,
-      "2023-11-26": 1440
+      "2023-11-27": 1440
     }
   }
 ]
