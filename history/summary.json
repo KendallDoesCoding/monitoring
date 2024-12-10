@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "61.30%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.35%",
-    "uptimeYear": "40.99%",
+    "uptime": "61.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "41.16%",
     "time": 535,
-    "timeDay": 307,
-    "timeWeek": 669,
-    "timeMonth": 1074,
-    "timeYear": 659,
+    "timeDay": 295,
+    "timeWeek": 665,
+    "timeMonth": 1072,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-12-09": 6,
       "2024-12-08": 71,
       "2024-12-05": 16,
       "2024-12-04": 39,
@@ -242,8 +241,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -252,16 +250,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "61.32%",
+    "uptime": "61.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "41.03%",
+    "uptimeYear": "41.20%",
     "time": 531,
-    "timeDay": 364,
-    "timeWeek": 366,
-    "timeMonth": 1011,
-    "timeYear": 741,
+    "timeDay": 309,
+    "timeWeek": 359,
+    "timeMonth": 993,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2024-12-08": 30,
       "2024-12-05": 80,
@@ -483,8 +481,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -493,15 +490,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "61.33%",
+    "uptime": "61.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "41.04%",
-    "time": 214,
-    "timeDay": 255,
-    "timeWeek": 230,
-    "timeMonth": 199,
+    "uptimeYear": "41.21%",
+    "time": 215,
+    "timeDay": 240,
+    "timeWeek": 234,
+    "timeMonth": 200,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-12-08": 30,
@@ -721,8 +718,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -731,15 +727,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "61.33%",
+    "uptime": "61.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "41.05%",
-    "time": 249,
-    "timeDay": 245,
-    "timeWeek": 227,
-    "timeMonth": 190,
+    "uptimeYear": "41.21%",
+    "time": 250,
+    "timeDay": 240,
+    "timeWeek": 230,
+    "timeMonth": 191,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2024-12-08": 30,
@@ -959,8 +955,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -969,15 +964,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "61.33%",
+    "uptime": "61.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "41.05%",
+    "uptimeYear": "41.21%",
     "time": 188,
-    "timeDay": 275,
-    "timeWeek": 227,
-    "timeMonth": 194,
+    "timeDay": 231,
+    "timeWeek": 230,
+    "timeMonth": 195,
     "timeYear": 194,
     "dailyMinutesDown": {
       "2024-12-08": 30,
@@ -1197,8 +1192,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   }
 ]
