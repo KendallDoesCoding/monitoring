@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "63.46%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "51.61%",
-    "time": 657,
-    "timeDay": 296,
-    "timeWeek": 325,
-    "timeMonth": 1070,
-    "timeYear": 739,
+    "uptime": "63.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "51.80%",
+    "time": 656,
+    "timeDay": 323,
+    "timeWeek": 347,
+    "timeMonth": 1074,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2025-01-17": 14,
       "2024-12-22": 35,
       "2024-12-21": 22,
       "2024-12-20": 21,
@@ -208,8 +207,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -218,18 +216,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "63.47%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "51.64%",
-    "time": 691,
-    "timeDay": 245,
-    "timeWeek": 318,
+    "uptime": "63.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "51.83%",
+    "time": 692,
+    "timeDay": 242,
+    "timeWeek": 328,
     "timeMonth": 1218,
-    "timeYear": 826,
+    "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-01-17": 13,
       "2024-12-22": 35,
       "2024-12-21": 122,
       "2024-12-20": 31,
@@ -415,8 +412,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -425,15 +421,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "63.48%",
+    "uptime": "63.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "51.66%",
+    "uptimeYear": "51.85%",
     "time": 205,
     "timeDay": 251,
     "timeWeek": 217,
-    "timeMonth": 237,
+    "timeMonth": 236,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2024-12-22": 35,
@@ -617,8 +613,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -627,14 +622,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "63.48%",
+    "uptime": "63.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "51.66%",
+    "uptimeYear": "51.85%",
     "time": 241,
-    "timeDay": 245,
-    "timeWeek": 218,
+    "timeDay": 223,
+    "timeWeek": 222,
     "timeMonth": 240,
     "timeYear": 261,
     "dailyMinutesDown": {
@@ -819,8 +814,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   },
   {
@@ -829,14 +823,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "63.49%",
+    "uptime": "63.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "51.66%",
+    "uptimeYear": "51.85%",
     "time": 193,
-    "timeDay": 234,
-    "timeWeek": 215,
+    "timeDay": 238,
+    "timeWeek": 219,
     "timeMonth": 232,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -1021,8 +1015,7 @@
       "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
-      "2024-01-20": 1440,
-      "2024-01-19": 1440
+      "2024-01-20": 1440
     }
   }
 ]
