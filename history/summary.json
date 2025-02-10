@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "64.65%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "58.04%",
-    "time": 672,
-    "timeDay": 247,
-    "timeWeek": 833,
-    "timeMonth": 436,
-    "timeYear": 710,
+    "uptime": "64.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "58.10%",
+    "time": 671,
+    "timeDay": 240,
+    "timeWeek": 783,
+    "timeMonth": 428,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-02-09": 7,
       "2025-02-04": 23,
       "2025-01-27": 17,
       "2024-12-22": 35,
@@ -187,8 +186,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -197,16 +195,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "64.66%",
+    "uptime": "64.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "58.07%",
-    "time": 702,
-    "timeDay": 138,
-    "timeWeek": 328,
-    "timeMonth": 288,
-    "timeYear": 768,
+    "uptimeYear": "58.13%",
+    "time": 701,
+    "timeDay": 102,
+    "timeWeek": 281,
+    "timeMonth": 280,
+    "timeYear": 765,
     "dailyMinutesDown": {
       "2025-02-04": 23,
       "2025-01-27": 17,
@@ -372,8 +370,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -382,18 +379,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "64.68%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "58.10%",
+    "uptime": "64.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "58.15%",
     "time": 203,
-    "timeDay": 168,
-    "timeWeek": 181,
-    "timeMonth": 187,
-    "timeYear": 209,
+    "timeDay": 163,
+    "timeWeek": 165,
+    "timeMonth": 183,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-02-09": 5,
       "2025-01-27": 16,
       "2024-12-22": 35,
       "2024-12-21": 148,
@@ -553,8 +549,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -563,15 +558,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "64.68%",
+    "uptime": "64.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.10%",
-    "time": 240,
-    "timeDay": 82,
-    "timeWeek": 178,
-    "timeMonth": 183,
+    "uptimeYear": "58.16%",
+    "time": 239,
+    "timeDay": 79,
+    "timeWeek": 157,
+    "timeMonth": 178,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-12-22": 35,
@@ -732,8 +727,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   },
   {
@@ -742,15 +736,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "64.69%",
+    "uptime": "64.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.10%",
+    "uptimeYear": "58.16%",
     "time": 195,
-    "timeDay": 128,
-    "timeWeek": 172,
-    "timeMonth": 185,
+    "timeDay": 86,
+    "timeWeek": 154,
+    "timeMonth": 179,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2024-12-22": 35,
@@ -911,8 +905,7 @@
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
-      "2024-02-12": 1440,
-      "2024-02-11": 1440
+      "2024-02-12": 1440
     }
   }
 ]
