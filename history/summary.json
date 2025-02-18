@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "65.01%",
+    "uptime": "65.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "60.02%",
-    "time": 674,
-    "timeDay": 350,
-    "timeWeek": 254,
-    "timeMonth": 402,
-    "timeYear": 692,
+    "uptimeYear": "60.29%",
+    "time": 673,
+    "timeDay": 335,
+    "timeWeek": 277,
+    "timeMonth": 404,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2025-02-04": 23,
       "2025-01-27": 17,
@@ -178,8 +178,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -188,16 +187,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "65.02%",
+    "uptime": "65.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "60.04%",
-    "time": 705,
-    "timeDay": 301,
-    "timeWeek": 237,
-    "timeMonth": 257,
-    "timeYear": 746,
+    "uptimeYear": "60.32%",
+    "time": 706,
+    "timeDay": 349,
+    "timeWeek": 261,
+    "timeMonth": 260,
+    "timeYear": 745,
     "dailyMinutesDown": {
       "2025-02-04": 23,
       "2025-01-27": 17,
@@ -355,8 +354,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -365,15 +363,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "65.03%",
+    "uptime": "65.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "60.07%",
-    "time": 197,
-    "timeDay": 216,
-    "timeWeek": 190,
-    "timeMonth": 178,
+    "uptimeYear": "60.34%",
+    "time": 198,
+    "timeDay": 247,
+    "timeWeek": 209,
+    "timeMonth": 177,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-01-27": 16,
@@ -527,8 +525,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -537,15 +534,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "65.03%",
+    "uptime": "65.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.07%",
-    "time": 240,
-    "timeDay": 193,
-    "timeWeek": 185,
-    "timeMonth": 171,
+    "uptimeYear": "60.35%",
+    "time": 241,
+    "timeDay": 245,
+    "timeWeek": 203,
+    "timeMonth": 172,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-12-22": 35,
@@ -698,8 +695,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -708,15 +704,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "65.04%",
+    "uptime": "65.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "60.08%",
+    "uptimeYear": "60.35%",
     "time": 195,
-    "timeDay": 219,
-    "timeWeek": 183,
-    "timeMonth": 172,
+    "timeDay": 271,
+    "timeWeek": 204,
+    "timeMonth": 173,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2024-12-22": 35,
@@ -869,8 +865,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
