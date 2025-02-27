@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "65.45%",
+    "uptime": "65.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "62.54%",
-    "time": 677,
-    "timeDay": 300,
-    "timeWeek": 297,
-    "timeMonth": 407,
-    "timeYear": 677,
+    "uptimeYear": "62.76%",
+    "time": 675,
+    "timeDay": 114,
+    "timeWeek": 279,
+    "timeMonth": 402,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2025-02-04": 23,
       "2025-01-27": 17,
@@ -169,8 +169,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -179,16 +178,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "up",
-    "uptime": "65.46%",
+    "uptime": "65.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "62.57%",
+    "uptimeYear": "62.78%",
     "time": 714,
-    "timeDay": 494,
-    "timeWeek": 366,
-    "timeMonth": 287,
-    "timeYear": 731,
+    "timeDay": 123,
+    "timeWeek": 329,
+    "timeMonth": 283,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2025-02-04": 23,
       "2025-01-27": 17,
@@ -337,8 +336,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -347,18 +345,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "up",
-    "uptime": "65.47%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "62.60%",
+    "uptime": "65.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "62.81%",
     "time": 199,
-    "timeDay": 261,
-    "timeWeek": 209,
-    "timeMonth": 189,
+    "timeDay": 195,
+    "timeWeek": 199,
+    "timeMonth": 186,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-02-26": 10,
       "2025-01-27": 16,
       "2024-12-22": 35,
       "2024-12-21": 148,
@@ -501,8 +498,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -511,18 +507,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "65.47%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "62.60%",
+    "uptime": "65.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "62.81%",
     "time": 238,
-    "timeDay": 236,
-    "timeWeek": 201,
-    "timeMonth": 184,
+    "timeDay": 172,
+    "timeWeek": 191,
+    "timeMonth": 180,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-02-26": 9,
       "2024-12-22": 35,
       "2024-12-21": 148,
       "2024-12-20": 30,
@@ -664,8 +659,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -674,18 +668,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "65.48%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "62.60%",
+    "uptime": "65.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "62.81%",
     "time": 199,
-    "timeDay": 253,
-    "timeWeek": 214,
-    "timeMonth": 188,
+    "timeDay": 165,
+    "timeWeek": 201,
+    "timeMonth": 184,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-02-26": 9,
       "2024-12-22": 35,
       "2024-12-21": 148,
       "2024-12-20": 30,
@@ -827,8 +820,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   }
 ]
