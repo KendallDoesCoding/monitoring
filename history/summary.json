@@ -4,18 +4,19 @@
     "url": "https://www.kendalldoescoding.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "72.08%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.59%",
+    "status": "down",
+    "uptime": "72.11%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.80%",
-    "time": 539,
-    "timeDay": 142,
-    "timeWeek": 306,
-    "timeMonth": 300,
+    "time": 538,
+    "timeDay": 325,
+    "timeWeek": 296,
+    "timeMonth": 305,
     "timeYear": 547,
     "dailyMinutesDown": {
+      "2025-08-21": 1,
       "2025-08-19": 24,
       "2025-08-16": 17,
       "2025-08-09": 40,
@@ -44,8 +45,7 @@
       "2024-09-04": 37,
       "2024-09-03": 16,
       "2024-08-30": 43,
-      "2024-08-24": 16,
-      "2024-08-21": 21
+      "2024-08-24": 16
     }
   },
   {
@@ -53,18 +53,19 @@
     "url": "https://kendalldoescoding.tech/mogulchristmas",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
-    "status": "up",
-    "uptime": "72.09%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.60%",
+    "status": "down",
+    "uptime": "72.12%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.83%",
-    "time": 574,
-    "timeDay": 114,
-    "timeWeek": 282,
-    "timeMonth": 284,
-    "timeYear": 570,
+    "time": 573,
+    "timeDay": 327,
+    "timeWeek": 272,
+    "timeMonth": 290,
+    "timeYear": 571,
     "dailyMinutesDown": {
+      "2025-08-21": 1,
       "2025-08-19": 23,
       "2025-08-16": 17,
       "2025-08-09": 38,
@@ -87,8 +88,7 @@
       "2024-11-30": 64,
       "2024-11-23": 23,
       "2024-09-08": 32,
-      "2024-08-24": 16,
-      "2024-08-21": 20
+      "2024-08-24": 16
     }
   },
   {
@@ -96,18 +96,19 @@
     "url": "https://kendalldoescoding.tech/letitbe",
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
-    "status": "up",
-    "uptime": "72.11%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.61%",
+    "status": "down",
+    "uptime": "72.14%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.86%",
     "time": 202,
-    "timeDay": 104,
-    "timeWeek": 195,
-    "timeMonth": 185,
-    "timeYear": 202,
+    "timeDay": 250,
+    "timeWeek": 192,
+    "timeMonth": 188,
+    "timeYear": 201,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-08-19": 23,
       "2025-08-16": 17,
       "2025-08-09": 38,
@@ -124,8 +125,7 @@
       "2024-12-20": 31,
       "2024-12-08": 30,
       "2024-12-05": 79,
-      "2024-11-30": 46,
-      "2024-08-21": 20
+      "2024-11-30": 46
     }
   },
   {
@@ -134,15 +134,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "up",
-    "uptime": "72.11%",
-    "uptimeDay": "98.44%",
+    "uptime": "72.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
     "time": 240,
-    "timeDay": 111,
-    "timeWeek": 187,
-    "timeMonth": 183,
+    "timeDay": 244,
+    "timeWeek": 185,
+    "timeMonth": 187,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-08-19": 22,
@@ -159,8 +159,7 @@
       "2024-12-20": 30,
       "2024-12-08": 30,
       "2024-12-05": 79,
-      "2024-11-30": 46,
-      "2024-08-21": 19
+      "2024-11-30": 46
     }
   },
   {
@@ -169,15 +168,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "up",
-    "uptime": "72.11%",
-    "uptimeDay": "98.47%",
+    "uptime": "72.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
     "time": 209,
-    "timeDay": 105,
-    "timeWeek": 183,
-    "timeMonth": 178,
+    "timeDay": 313,
+    "timeWeek": 188,
+    "timeMonth": 184,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2025-08-19": 22,
@@ -193,8 +192,7 @@
       "2024-12-20": 30,
       "2024-12-08": 30,
       "2024-12-05": 78,
-      "2024-11-30": 44,
-      "2024-08-21": 19
+      "2024-11-30": 44
     }
   }
 ]
