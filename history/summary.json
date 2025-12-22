@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "63.57%",
+    "uptime": "63.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.48%",
+    "uptimeYear": "66.21%",
     "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 449,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-12-21": 119,
+      "2025-12-22": 118,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -151,8 +152,7 @@
       "2025-03-30": 25,
       "2025-03-02": 35,
       "2025-02-04": 23,
-      "2025-01-27": 17,
-      "2024-12-22": 35
+      "2025-01-27": 17
     }
   },
   {
@@ -161,18 +161,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "down",
-    "uptime": "63.57%",
+    "uptime": "63.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.46%",
-    "time": 555,
+    "uptimeYear": "66.21%",
+    "time": 556,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 468,
+    "timeYear": 357,
     "dailyMinutesDown": {
-      "2025-12-21": 119,
+      "2025-12-22": 118,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -307,8 +308,7 @@
       "2025-03-30": 24,
       "2025-03-02": 34,
       "2025-02-04": 23,
-      "2025-01-27": 17,
-      "2024-12-22": 35
+      "2025-01-27": 17
     }
   },
   {
@@ -317,18 +317,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "down",
-    "uptime": "63.59%",
+    "uptime": "63.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.47%",
+    "uptimeYear": "66.23%",
     "time": 201,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 198,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-12-21": 119,
+      "2025-12-22": 118,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -461,8 +462,7 @@
       "2025-04-18": 21,
       "2025-04-03": 90,
       "2025-03-02": 18,
-      "2025-01-27": 16,
-      "2024-12-22": 35
+      "2025-01-27": 16
     }
   },
   {
@@ -471,18 +471,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "down",
-    "uptime": "63.59%",
+    "uptime": "63.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.50%",
+    "uptimeYear": "66.25%",
     "time": 243,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-12-21": 119,
+      "2025-12-22": 118,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -613,8 +614,7 @@
       "2025-05-05": 24,
       "2025-04-18": 20,
       "2025-04-03": 89,
-      "2025-03-02": 18,
-      "2024-12-22": 35
+      "2025-03-02": 18
     }
   },
   {
@@ -623,18 +623,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "down",
-    "uptime": "63.60%",
+    "uptime": "63.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.50%",
+    "uptimeYear": "66.26%",
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-12-21": 119,
+      "2025-12-22": 118,
+      "2025-12-21": 1440,
       "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
@@ -764,8 +765,7 @@
       "2025-05-05": 24,
       "2025-04-18": 20,
       "2025-04-03": 89,
-      "2025-03-02": 18,
-      "2024-12-22": 35
+      "2025-03-02": 18
     }
   }
 ]
