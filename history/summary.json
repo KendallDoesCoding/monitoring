@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kendalldoescoding.tech.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "57.84%",
+    "uptime": "57.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.56%",
-    "time": 486,
+    "uptimeYear": "38.31%",
+    "time": 351,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 346,
+    "timeYear": 345,
     "dailyMinutesDown": {
-      "2026-04-02": 155,
+      "2026-04-03": 157,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -248,8 +249,7 @@
       "2025-06-25": 20,
       "2025-05-05": 26,
       "2025-04-18": 21,
-      "2025-04-09": 15,
-      "2025-04-03": 91
+      "2025-04-09": 15
     }
   },
   {
@@ -258,18 +258,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "a-very-mogul-christmas",
     "status": "down",
-    "uptime": "57.84%",
+    "uptime": "57.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.56%",
-    "time": 495,
+    "uptimeYear": "38.30%",
+    "time": 484,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2026-04-02": 155,
+      "2026-04-03": 157,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -501,8 +502,7 @@
       "2025-06-25": 20,
       "2025-06-17": 30,
       "2025-05-05": 25,
-      "2025-04-18": 21,
-      "2025-04-03": 90
+      "2025-04-18": 21
     }
   },
   {
@@ -511,18 +511,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "let-it-be-1970-album-by-the-beatles",
     "status": "down",
-    "uptime": "57.86%",
+    "uptime": "57.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.56%",
-    "time": 200,
+    "uptimeYear": "38.30%",
+    "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 194,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2026-04-02": 155,
+      "2026-04-03": 158,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -754,8 +755,7 @@
       "2025-06-25": 20,
       "2025-06-17": 30,
       "2025-05-05": 25,
-      "2025-04-18": 21,
-      "2025-04-03": 90
+      "2025-04-18": 21
     }
   },
   {
@@ -764,18 +764,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "typing-game-2",
     "status": "down",
-    "uptime": "57.86%",
+    "uptime": "57.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.58%",
-    "time": 220,
+    "uptimeYear": "38.32%",
+    "time": 222,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-04-02": 155,
+      "2026-04-03": 158,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1006,8 +1007,7 @@
       "2025-06-25": 20,
       "2025-06-17": 30,
       "2025-05-05": 24,
-      "2025-04-18": 20,
-      "2025-04-03": 89
+      "2025-04-18": 20
     }
   },
   {
@@ -1016,18 +1016,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kendalldoescoding.tech.ico",
     "slug": "tic-tac-toe",
     "status": "down",
-    "uptime": "57.87%",
+    "uptime": "57.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.59%",
+    "uptimeYear": "38.33%",
     "time": 210,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-04-02": 156,
+      "2026-04-03": 158,
+      "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
       "2026-03-30": 1440,
@@ -1257,8 +1258,7 @@
       "2025-06-30": 22,
       "2025-06-25": 20,
       "2025-05-05": 24,
-      "2025-04-18": 20,
-      "2025-04-03": 89
+      "2025-04-18": 20
     }
   }
 ]
